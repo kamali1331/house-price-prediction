@@ -1,7 +1,0 @@
-House price prediction
-
-Pandas 
-streamlit
-scikit-learn
-matplotlib
-seaborn
